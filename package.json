@@ -1,0 +1,23 @@
+{
+    "name": "timeago-js",
+    "version": "0.0.1",
+    "author": "Micah Martin",
+    "description": "The http wrapper for linksnip",
+    "main": "./index",
+    "engines": {
+        "node": ">=0.10.x",
+        "npm": ">=1.3.x"
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+        "mocha": "~=1.12",
+        "should": "~=1.2"
+    },
+    "bundleDependencies": [],
+    "repository" : {
+        "type" : "git",
+        "url" : "ssh://git@bitbucket.org/cloudcollege/linksnip-www.git"
+    }
+}
